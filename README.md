@@ -1,4 +1,4 @@
-# Solutions to Competitive Programming Problems
+# Solutions to Programming Problems
 
 This includes solutions to practice problems from Kattis:
 
